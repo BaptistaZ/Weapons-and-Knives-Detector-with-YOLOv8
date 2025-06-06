@@ -41,3 +41,4 @@ def process_images_in_folder(input_folder, output_folder):
 input_folder = "./imgs/Normal/Test/images"
 output_folder = "./imgs/Haar_Compressed/Test/images"
 process_images_in_folder(input_folder, output_folder)
+
